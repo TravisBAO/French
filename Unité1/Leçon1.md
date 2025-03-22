@@ -32,5 +32,4 @@
 | bonne  | good  | adj. 阴性单数|
 | bons  | good  | adj. 阳性复数|
 | bonnes  | good  | adj. 阴性复数|
-
-| jour  | day  |
+| jour  | day  |-
