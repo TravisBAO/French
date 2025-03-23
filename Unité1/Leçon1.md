@@ -20,7 +20,7 @@
 | Ça va bien?  | Are you doing well?
 | Oui, ça va bien.  | Yes, I am doing well.
 | Comment ça va?  | How are you doing?
-| Au revoir | Goodbye
+| Très bien, et toi? | Very well, and you?
 
 &nbsp;
 
