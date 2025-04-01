@@ -23,6 +23,8 @@
 
 - Avoir（to have） → Nous avons
 
+- Vouloir（to want） → Nous voulons
+
 - Être（to be） → Nous sommes
 
 - Faire（to do） → Nous faisons
