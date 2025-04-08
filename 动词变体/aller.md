@@ -2,14 +2,14 @@
 
 ## 直陈式 (Indicatif)
 
-| 现在时 (Présent)  | 未完成过去时 (Imparfait) | 简单过去时 (Passé simple)（文学用语）  |  简单将来时 (Futur simple) | 先将来时 (Futur antérieur)
-|------|----|------| -- | ---
-| Je vais  | J'allais | J'allai | J'irai | J'irai
-| Tu vas  | Tu allais | Tu allas | Tu iras | Tu iras
-| Il/Elle/On **va**  | Il/Elle/On allait | Il/Elle/On alla | Il/Elle/On ira | Il/Elle/On ira
-| Nous allons  | Nous allions | Nous allâmes | Nous irons | Nous irons
-| Vous allez  | Vous alliez | Vous allâtes | Vous irez | Vous irez
-| Ils/Elles vout  | Ils/Elles allaient | Ils/Elles allèrent | Ils/Elles iront | Ils/Elles iront
+| - | 现在时 (Présent)  | 未完成过去时 (Imparfait) | 简单过去时 (Passé simple)（文学用语）  |  简单将来时 (Futur simple) | 先将来时 (Futur antérieur)
+| - |------|----|------| -- | ---
+| Je | vais  | J'allais | J'allai | J'irai | J'irai
+| Tu | vas  | allais | allas | iras | iras
+| Il/Elle/On | **va**  | allait | alla | ira | ira
+| Nous | allons  | allions | allâmes | irons | irons
+| Vous | allez  | alliez | allâtes | irez | irez
+| Ils/Elles | vout  | allaient | allèrent | iront | iront
 
 ## 复合时态 (Temps composés)
 注意：aller 的复合时态用 être 作助动词
