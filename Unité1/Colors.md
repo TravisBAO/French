@@ -1,5 +1,5 @@
 | - | n.m. | n.f. 
 | - | - | - 
-| white | blanc | blanche 
+| white | blanc(s) | blanche(s) 
 | - | - | - 
 | - | - | - 
