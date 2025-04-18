@@ -1,5 +1,5 @@
-| - | n.m. | n.f. 
+| - | adj.m. | adj.f. 
 | - | - | - 
 | white | blanc(s) | blanche(s) 
-| - | - | - 
+| red | rouge | - 
 | - | - | - 
