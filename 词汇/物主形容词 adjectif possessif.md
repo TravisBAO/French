@@ -1,4 +1,4 @@
-# 法语的形容词性物主限定词 (adjectifs possessifs)。
+# 法语 物主形容词 (adjectifs possessifs)。
 
 ## 1. 定义
 
